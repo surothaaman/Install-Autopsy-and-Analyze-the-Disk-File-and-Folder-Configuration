@@ -1,4 +1,4 @@
-# Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
+<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/ea00a6d4-ddcc-4876-87c0-e808b80616ef" /><img width="1920" height="1080" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/cb5f6f08-8d8e-4c1b-9753-eb2504ffa7c9" /># Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
 
@@ -12,7 +12,7 @@ Launch Autopsy from the terminal or application menu and create a new case.
 ### Step 3:
 Add a disk image or file to the case and analyze the contents such as deleted files, metadata, and folder structure.
 
-## PROGRAM:
+## PROGRAM:<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/42b8a1a0-95c4-48d2-9ecb-befb384e7d92" /><img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/a5898f4f-411f-497a-90d5-c24329e07fa6" />
 1. Autopsy Web Interface
 Launch Autopsy:
 
@@ -24,18 +24,15 @@ autopsy
 It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/80906fca-159a-4d6f-91b1-0879acd73074)
-![image](https://github.com/user-attachments/assets/3187b259-2edf-495b-801c-4f1d9c2659bf)
-![image](https://github.com/user-attachments/assets/9cb055ba-5b27-4ad2-a64c-816bbbf828c9)
+<img width="1920" height="1080" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/3e808d35-27d4-48ba-90c5-6ecc2ea192a0" />
+<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/6ea47927-7cbe-40ac-82c0-f05f7deddad9" />
 
-![image](https://github.com/user-attachments/assets/36e75b8a-6253-4a26-b1a0-149e1056092f)
+<img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/b5533c37-b318-44ff-8a7b-b1bf023b7340" />
 
-![image](https://github.com/user-attachments/assets/6da8db99-04b4-4ebc-8fc8-647ec74b77ce)
+<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/af7cef35-ec2b-4187-8a3b-7453574d133d" />
 
-![image](https://github.com/user-attachments/assets/5c772a4e-11c7-4ed2-9fd2-49ed86adec46)
 
-![image](https://github.com/user-attachments/assets/ce44d676-88b4-4735-bfdd-11ce92bacf10)
-![image](https://github.com/user-attachments/assets/1a8d9c96-ed94-4a7b-820c-91fa9388b2fc)
+
 
 
 ## RESULT:
